@@ -1,0 +1,125 @@
+.container {
+   border: 1px solid black;
+   overflow: hidden;
+   padding: 20px;
+   background-color: rgb(245, 238, 238); 
+   margin: 30px;
+  }
+  
+  .first_block1 {
+    float: left; 
+    width: 150px; 
+    height: 50px; 
+    background-color: #ddd; 
+    border: 1px solid #333; 
+  }
+
+  .first_block2 {
+    float: right; 
+    width: 150px; 
+    height: 50px; 
+    background-color: #ddd; ; 
+    border: 1px solid #333;
+  }
+
+  .second_block1 {
+    float: left; 
+    width: 150px; 
+    height: 50px; 
+    background-color: #ddd; 
+    border: 1px solid #333; 
+  }
+
+  .second_block2 {
+    float: right; 
+    width: 150px; 
+    height: 50px; 
+    background-color: #ddd; 
+    border: 1px solid #333; 
+    margin-right: 10px;
+  }
+
+  .third_block1 {
+    float: left; 
+    width: 150px; 
+    height: 50px; 
+    background-color: #ddd; 
+    border: 1px solid #333; 
+    margin-right: 10px;
+  }
+
+  .third_block2 {
+    float: right; 
+    width: 150px; 
+    height: 50px; 
+    background-color: #ddd; 
+    border: 1px solid #333; 
+    margin-right: 10px;
+  }
+
+  .fourth_blocks {
+    float: right;
+  }
+
+
+  .fourth_block1 {
+    width: 150px; 
+    height: 50px; 
+    background-color: #ddd; 
+    border: 1px solid #333; 
+    margin-right: 10px;
+    margin-bottom: 20px;
+  }
+
+  .fourth_block2 {
+    width: 150px; 
+    height: 50px; 
+    background-color: #ddd; 
+    border: 1px solid #333; 
+    margin-right: 10px;
+  } 
+
+  .fourth_block3 {
+    float: right; 
+    width: 150px; 
+    height: 122px; 
+    background-color: #ddd; 
+    border: 1px solid #333; 
+    margin-right: 10px;
+  }
+
+  .blocks {
+    width: fit-content;
+    margin: auto;
+  }
+
+  .fifth_blocks{
+    float: right;
+    margin-right: auto;
+  }
+
+  .fifth_block1 {
+    float: left;
+    width: 200px; 
+    height: 122px; 
+    background-color: #ddd; 
+    border: 1px solid #333; 
+    margin-right: 10px;
+  }
+  
+  .fifth_block2 {
+    width: 200px; 
+    height: 50px; 
+    background-color: #ddd; 
+    border: 1px solid #333; 
+    margin-right: 10px;
+    margin-bottom: 20px;
+  }
+
+  .fifth_block3 {
+    width: 200px; 
+    height: 50px; 
+    background-color: #ddd; 
+    border: 1px solid #333; 
+    margin-right: 10px;
+}
